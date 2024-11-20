@@ -1,0 +1,11 @@
+prompt user to enter number
+collect number
+store as age
+ if age <= 12
+s.out Teens 
+ else if age >= 13 and <= 17
+S.out Teens
+else if age >= 18 and <= 64
+s.out adults
+else if age >= 65
+S.out Senoir
