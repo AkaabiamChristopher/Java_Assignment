@@ -1,0 +1,10 @@
+public class Multi4{
+   public static void main(String[] args){
+     
+      for (int count = 4; count <= 10; count++){ 
+
+  System.out.print(count++ );
+
+}
+}
+}
